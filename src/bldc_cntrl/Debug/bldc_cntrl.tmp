@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega88PA"</DEVICE>
+ <WORKING_DIR>F:\moje\bldc\propeller_display\src\bldc_cntrl\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m88padef.inc</FILE>
+  <FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\StartTable.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\Debug\bldc_cntrl.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>bldc_cntrl.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>bldc_cntrl.map</FILE>
+  <FILE>bldc_cntrl.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_reset_><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>329</LINE></_reset_>
+  <_unused_><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>298</LINE></_unused_>
+  <PcInt><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>319</LINE></PcInt>
+  <Timer1Ov><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>304</LINE></Timer1Ov>
+  <Timer1OvSkip><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>312</LINE></Timer1OvSkip>
+  <ClrRamLoop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>344</LINE></ClrRamLoop>
+  <InitHdw><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>663</LINE></InitHdw>
+  <main_wait_push_button><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>377</LINE></main_wait_push_button>
+  <WaitForTimer><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>799</LINE></WaitForTimer>
+  <main_wait_release_button><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>382</LINE></main_wait_release_button>
+  <TimeTable><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\StartTable.asm</FILE><LINE>13</LINE></TimeTable>
+  <main_start_loop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>402</LINE></main_start_loop>
+  <SetPwms><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>767</LINE></SetPwms>
+  <main_start_loop_end><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>417</LINE></main_start_loop_end>
+  <main_start1_loop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>423</LINE></main_start1_loop>
+  <main_start1_loop_end><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>438</LINE></main_start1_loop_end>
+  <main_loop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>451</LINE></main_loop>
+  <WaitAndSetPhase1><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>522</LINE></WaitAndSetPhase1>
+  <main_stop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>492</LINE></main_stop>
+  <SetMotor><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>622</LINE></SetMotor>
+  <WaitAndSetPhase2><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>537</LINE></WaitAndSetPhase2>
+  <WaitAndSetPhase3><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>552</LINE></WaitAndSetPhase3>
+  <WaitAndSetPhase4><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>568</LINE></WaitAndSetPhase4>
+  <WaitAndSetPhase5><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>584</LINE></WaitAndSetPhase5>
+  <WaitAndSetPhase6><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>601</LINE></WaitAndSetPhase6>
+  <OutputsBrake><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>775</LINE></OutputsBrake>
+  <main_stop_wait_release><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>504</LINE></main_stop_wait_release>
+  <OutputsOff><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>787</LINE></OutputsOff>
+  <main_end_loop><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>516</LINE></main_end_loop>
+  <SetMotorEnd><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>657</LINE></SetMotorEnd>
+  <SetMotorSkipReading><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>637</LINE></SetMotorSkipReading>
+  <SetMotorNotStable><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>644</LINE></SetMotorNotStable>
+  <SetMotorWaitUart><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>648</LINE></SetMotorWaitUart>
+  <CurrentTest><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>814</LINE></CurrentTest>
+  <CurrentTestWaitPress><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>825</LINE></CurrentTestWaitPress>
+  <CurrentTestWaitRelease><FILE>F:\moje\bldc\propeller_display\src\bldc_cntrl\main.asm</FILE><LINE>830</LINE></CurrentTestWaitRelease>
+ </LABELS>
+</ASSEMBLER_INFO>

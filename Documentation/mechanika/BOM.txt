@@ -1,0 +1,12 @@
+element;ilość;Norma/opis;
+M3x8;3;DIN7991 stal czarna;
+M3x10;8;DIN7991 stal czarna;
+M2x10;1;DIN933 stal czarna;
+M3x5;1;DIN912 stal czarna;
+M3x8;1;DIN913 stal czarna; 
+M3x12;3;dystans mosiadz gwint wewntrzny-zewnętrzny;
+M3x20;3;dystans polietylen gwint wewntrzny-wewnętrzny;
+M3x25;1;dystans mosiadz gwint wewntrzny-wewnętrzny;
+silnik;1; silnik D1811-2000;
+ 
+ 
